@@ -8,3 +8,6 @@ Swaps mouse from right-handed to left-handed and vice versa.  Best way to use is
 
 ![Handy desktop shortcut with shortcut key](shortcut_properties.png?raw=true "Desktop Shortcut")
 
+### Supported OS 
+
+- Windows 7
